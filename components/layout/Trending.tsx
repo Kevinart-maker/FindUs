@@ -1,7 +1,7 @@
 import { serviceProviders } from "@/data/data";
 
 type Props = {
-    grid : string;
+    grid : boolean;
 }
 
 
