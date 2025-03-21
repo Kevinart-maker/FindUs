@@ -23,7 +23,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Manhattan, NY",
         rating: 4.8,
         experience: 12,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 2,
@@ -33,7 +33,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Brooklyn, NY", 
         rating: 4.9,
         experience: 8,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 3,
@@ -43,7 +43,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Queens, NY",
         rating: 4.7,
         experience: 15,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 4,
@@ -53,7 +53,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Staten Island, NY",
         rating: 4.9,
         experience: 20,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 5,
@@ -63,7 +63,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Bronx, NY",
         rating: 4.6,
         experience: 5,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 6,
@@ -73,7 +73,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Jersey City, NJ",
         rating: 4.8,
         experience: 10,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 7,
@@ -83,7 +83,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Newark, NJ",
         rating: 4.7,
         experience: 6,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 8,
@@ -93,7 +93,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Yonkers, NY",
         rating: 4.9,
         experience: 18,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 9,
@@ -103,7 +103,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "New Rochelle, NY",
         rating: 4.8,
         experience: 15,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 10,
@@ -113,7 +113,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "White Plains, NY",
         rating: 4.6,
         experience: 7,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 11,
@@ -123,7 +123,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Stamford, CT",
         rating: 4.7,
         experience: 9,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 12,
@@ -133,7 +133,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Greenwich, CT",
         rating: 4.8,
         experience: 4,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 13,
@@ -143,7 +143,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Hoboken, NJ",
         rating: 4.9,
         experience: 22,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 14,
@@ -153,7 +153,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Elizabeth, NJ",
         rating: 4.7,
         experience: 12,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 15,
@@ -163,7 +163,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Paterson, NJ",
         rating: 4.6,
         experience: 6,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 16,
@@ -173,7 +173,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Mount Vernon, NY",
         rating: 4.8,
         experience: 14,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 17,
@@ -183,7 +183,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Union City, NJ",
         rating: 4.7,
         experience: 5,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 18,
@@ -193,7 +193,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Bridgeport, CT",
         rating: 4.8,
         experience: 16,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 19,
@@ -203,7 +203,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "New Haven, CT",
         rating: 4.9,
         experience: 19,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 20,
@@ -213,7 +213,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Norwalk, CT",
         rating: 4.6,
         experience: 8,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 21,
@@ -223,7 +223,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Danbury, CT",
         rating: 4.7,
         experience: 11,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 22,
@@ -233,7 +233,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Waterbury, CT",
         rating: 4.8,
         experience: 7,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 23,
@@ -243,7 +243,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Clifton, NJ",
         rating: 4.9,
         experience: 20,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 24,
@@ -253,7 +253,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Passaic, NJ",
         rating: 4.7,
         experience: 13,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 25,
@@ -263,7 +263,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Bayonne, NJ",
         rating: 4.6,
         experience: 6,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 26,
@@ -273,7 +273,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "East Orange, NJ",
         rating: 4.8,
         experience: 15,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 27,
@@ -283,7 +283,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "West New York, NJ",
         rating: 4.7,
         experience: 4,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 28,
@@ -293,7 +293,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "North Bergen, NJ",
         rating: 4.8,
         experience: 17,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 29,
@@ -303,7 +303,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Kearny, NJ",
         rating: 4.9,
         experience: 21,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     },
     {
         id: 30,
@@ -313,7 +313,7 @@ export const serviceProviders: ServiceProvider[] = [
         location: "Fort Lee, NJ",
         rating: 4.6,
         experience: 9,
-        image: '/profile.jpg'
+        image: '/profile.webp'
     }
 ];
 
