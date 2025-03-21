@@ -8,7 +8,7 @@ import { CgProfile } from "react-icons/cg";
 import { useState } from "react";
 
 const Navbar = () => {
-    const [displayRegister, setDisplayRegister] = useState(false)<boolean>;
+    const [displayRegister, setDisplayRegister] = useState<boolean>(false);
     
     return ( 
         <nav className="flex items-center relative justify-between gap-[2rem] px-8 p-4 text-white bg-blue-600 shadow-xl">

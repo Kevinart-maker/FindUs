@@ -20,7 +20,7 @@ const service = services.map((item, index) => (
 console.log(service)
 
 const HomeFilters = () => {
-    const [grid, setGrid] = useState(false)<boolean>;
+    const [grid, setGrid] = useState<boolean>(false);
     
     return ( 
         <section>
